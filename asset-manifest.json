@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.19e640d2.chunk.js",
-    "main.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.19e640d2.chunk.js.map",
+    "main.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.cde75ee6.chunk.js",
+    "main.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.cde75ee6.chunk.js.map",
     "runtime-main.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/runtime-main.cccb2d7f.js",
     "runtime-main.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/runtime-main.cccb2d7f.js.map",
-    "static/js/2.2b5a2779.chunk.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.2b5a2779.chunk.js",
-    "static/js/2.2b5a2779.chunk.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.2b5a2779.chunk.js.map",
+    "static/js/2.cb940fc4.chunk.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.cb940fc4.chunk.js",
+    "static/js/2.cb940fc4.chunk.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.cb940fc4.chunk.js.map",
     "index.html": "https://eduardoromero2000.github.io/csb-o14p6/index.html",
-    "static/js/2.2b5a2779.chunk.js.LICENSE.txt": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.2b5a2779.chunk.js.LICENSE.txt"
+    "static/js/2.cb940fc4.chunk.js.LICENSE.txt": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.cb940fc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cccb2d7f.js",
-    "static/js/2.2b5a2779.chunk.js",
-    "static/js/main.19e640d2.chunk.js"
+    "static/js/2.cb940fc4.chunk.js",
+    "static/js/main.cde75ee6.chunk.js"
   ]
 }
