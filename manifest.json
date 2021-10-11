@@ -1,0 +1,27 @@
+{
+  "name": "Mi primer aplicación pwa",
+  "short_name": "PWA",
+  "description": "Mi primer aplicación pwa",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "129x128",
+      "type": "image/png"
+    }
+  ]
+}
