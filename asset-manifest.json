@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.74e7c922.chunk.js",
-    "main.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.74e7c922.chunk.js.map",
+    "main.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.19e640d2.chunk.js",
+    "main.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/main.19e640d2.chunk.js.map",
     "runtime-main.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/runtime-main.cccb2d7f.js",
     "runtime-main.js.map": "https://eduardoromero2000.github.io/csb-o14p6/static/js/runtime-main.cccb2d7f.js.map",
     "static/js/2.2b5a2779.chunk.js": "https://eduardoromero2000.github.io/csb-o14p6/static/js/2.2b5a2779.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.cccb2d7f.js",
     "static/js/2.2b5a2779.chunk.js",
-    "static/js/main.74e7c922.chunk.js"
+    "static/js/main.19e640d2.chunk.js"
   ]
 }
